@@ -1,3 +1,3 @@
 # Hello-World
 my first github project
-I am a master student of Tongji University, today is September 15, 2019.
+Today is September 15, 2019. I create my first projec in github
